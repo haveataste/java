@@ -1,3 +1,5 @@
+* [punkave/phpQuery](https://github.com/punkave/phpQuery)
+* [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS)
 * [browserify/browserify](https://github.com/browserify/browserify)
 * [streamlink/streamlink](https://github.com/streamlink/streamlink)
 * [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss)
