@@ -1,4 +1,4 @@
-* [punkave/phpQuery](https://github.com/punkave/phpQuery)
+* [punkave/phpQuery](https://github.com/punkave/phpQuery/phpQuery.php)
 * [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS)
 * [browserify/browserify](https://github.com/browserify/browserify)
 * [streamlink/streamlink](https://github.com/streamlink/streamlink)
