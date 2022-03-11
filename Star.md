@@ -1,5 +1,6 @@
 * [axios/axios](https://github.com/axios/axios)
 * [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)
+* [https://toutyrater.github.io/](https://toutyrater.github.io/)
 ---
 
 * [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray)
