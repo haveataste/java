@@ -1,3 +1,4 @@
+* [tesseract PythonOCR](https://github.com/tesseract-ocr/tesseract)
 * [Postwoman](https://github.com/hoppscotch/hoppscotch)
 * [zlib.js](https://github.com/nodejs/node/blob/main/lib/zlib.js)
 * [wordcloud](https://ecomfe.github.io/echarts-wordcloud/example/wordCloud.html)
